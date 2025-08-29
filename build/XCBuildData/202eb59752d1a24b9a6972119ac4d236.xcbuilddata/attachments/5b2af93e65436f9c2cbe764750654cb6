@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAI-master.dia",
+    "emit-module-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAI-master.swiftdeps"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/ContentView.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/PeterAIApp.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

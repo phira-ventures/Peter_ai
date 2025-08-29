@@ -1,0 +1,129 @@
+{
+  "identifier" : "2EFDD93C",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6470067328",
+    "_developerTeamID" : "YOUR_TEAM_ID",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 734871871.70703697,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21364810",
+      "localizations" : [
+
+      ],
+      "name" : "Essential Plans",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "14.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6470067329",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Full access to Peter AI with unlimited conversations and daily email summaries",
+              "displayName" : "Essential Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.phira.peterai.essential_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Essential Monthly",
+          "subscriptionGroupID" : "21364810",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "125.00",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6470067330",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Full access to Peter AI with unlimited conversations and daily email summaries. Save 30% with annual billing!",
+              "displayName" : "Essential Annual",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.phira.peterai.essential_annual",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Essential Annual",
+          "subscriptionGroupID" : "21364810",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

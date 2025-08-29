@@ -1,0 +1,218 @@
+{
+  "" : {
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAI-master.dia",
+    "emit-module-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAI-master.swiftdeps"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/ContentView.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Models/UserStore.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/UserStore.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/UserStore.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/UserStore.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/UserStore.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/UserStore.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/UserStore.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/UserStore.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/UserStore~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/OnboardingView.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/PeterAIApp.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PeterAIApp~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/AccessibilityService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AccessibilityService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AccessibilityService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AccessibilityService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AccessibilityService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AccessibilityService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AccessibilityService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AccessibilityService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AccessibilityService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/AnalyticsService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AnalyticsService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AnalyticsService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AnalyticsService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AnalyticsService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AnalyticsService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AnalyticsService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AnalyticsService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/AnalyticsService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/EmailService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/EmailService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/EmailService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/EmailService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/EmailService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/EmailService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/EmailService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/EmailService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/EmailService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/ErrorHandlingService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ErrorHandlingService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ErrorHandlingService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ErrorHandlingService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ErrorHandlingService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ErrorHandlingService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ErrorHandlingService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ErrorHandlingService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/ErrorHandlingService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/LoggingService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/LoggingService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/LoggingService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/LoggingService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/LoggingService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/LoggingService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/LoggingService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/LoggingService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/LoggingService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/MonitoringService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/MonitoringService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/MonitoringService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/MonitoringService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/MonitoringService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/MonitoringService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/MonitoringService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/MonitoringService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/MonitoringService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/OfflineModeService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OfflineModeService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OfflineModeService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OfflineModeService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OfflineModeService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OfflineModeService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OfflineModeService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OfflineModeService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OfflineModeService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/OpenAIService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OpenAIService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OpenAIService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OpenAIService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OpenAIService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OpenAIService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OpenAIService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OpenAIService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/OpenAIService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/PromptsService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PromptsService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PromptsService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PromptsService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PromptsService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PromptsService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PromptsService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PromptsService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/PromptsService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/SecureStorage.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SecureStorage.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SecureStorage.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SecureStorage.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SecureStorage.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SecureStorage.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SecureStorage.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SecureStorage.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SecureStorage~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/SubscriptionService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/VoiceService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/VoiceService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/VoiceService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/VoiceService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/VoiceService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/VoiceService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/VoiceService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/VoiceService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/VoiceService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Services/WeatherService.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/WeatherService.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/WeatherService.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/WeatherService.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/WeatherService.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/WeatherService.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/WeatherService.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/WeatherService.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/WeatherService~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Views/HelpSystemView.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/HelpSystemView.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/HelpSystemView.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/HelpSystemView.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/HelpSystemView.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/HelpSystemView.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/HelpSystemView.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/HelpSystemView.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/HelpSystemView~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Views/SubscriptionGuard.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionGuard.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionGuard.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionGuard.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionGuard.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionGuard.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionGuard.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionGuard.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionGuard~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/Views/SubscriptionPaywallView.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionPaywallView.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionPaywallView.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionPaywallView.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionPaywallView.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionPaywallView.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionPaywallView.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionPaywallView.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/SubscriptionPaywallView~partial.swiftmodule"
+  },
+  "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/Abraham/Downloads/PeterAI_Working/build/PeterAI.build/Debug-iphonesimulator/PeterAI.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

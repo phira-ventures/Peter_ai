@@ -1,0 +1,40 @@
+{
+  "source": "/Users/Abraham/Downloads/PeterAI_Working/PeterAI/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "👴🏻",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Peter AI",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Listening...",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to Speak",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 69
+        }
+      }
+    ]
+  },
+  "version": 1
+}
